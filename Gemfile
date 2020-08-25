@@ -7,6 +7,7 @@ ruby '2.6.5'
 gem 'pg'
 gem 'bootstrap', '~>4.1.1'
 gem 'jquery-rails'
+gem 'font-awesome-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
 # Use sqlite3 as the database for Active Record
